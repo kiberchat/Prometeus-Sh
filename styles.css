@@ -40,3 +40,6 @@ input {
     max-width: 784px;
     align-content: flex-start;
 }
+.nav-left {
+    text-align: left;
+}
